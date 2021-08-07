@@ -13,6 +13,8 @@
 +  Kim Seo Hee 🙌
 + 🐤 i'm trying to be a FE_Developer
 + and I like to sing 🎵
++ Completion of the web Publisher+Designer Course (2020.12~2021.05)
+
 
 
 
