@@ -14,8 +14,6 @@
 ## I'm
 +  Kim Seo Hee 🙌
 +  born in 1994.01
-+ 🐤 i'm trying to be a FE_Developer
-+ and I like to sing 🎵
 
 ## Education
 + web Publisher+Designer Course (2020.12~2021.05) in 더조은컴퓨터학원
